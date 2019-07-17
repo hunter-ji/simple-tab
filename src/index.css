@@ -1,0 +1,14 @@
+body
+{
+    font-family: "mononoki", Arial, sans-serif;
+    font-size: 3rem;
+    font-weight: 200;
+    line-height: 1.5;
+    color: #000;
+    text-align: center;
+    background-color: #fff;
+}
+
+.area {
+  margin : 15%;
+}
